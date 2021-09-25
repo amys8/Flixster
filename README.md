@@ -23,7 +23,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-<img src="walkthrough-portrait.gif" width=250> <img src="walkthrough-landscape.gif" width=500><br>
+<img src="walkthrough-portrait.gif" width=250> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="walkthrough-landscape.gif" width=500><br>
 
 ### Notes
 When changing the colors of the UI, I initially only changed the colors for the landscape mode and later realized that I had to do the same for the portrait mode. 
